@@ -1,4 +1,4 @@
-# calcmedia
+# Calculadora de média.
 Calculadora de média estudantil com Python.
 
 Codigos desenvolvidos durante meu estudo de Python.
